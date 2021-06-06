@@ -1,1 +1,1 @@
-# Hi, you're in the wrong place :)
+# Hi, you're in the wrong place.
